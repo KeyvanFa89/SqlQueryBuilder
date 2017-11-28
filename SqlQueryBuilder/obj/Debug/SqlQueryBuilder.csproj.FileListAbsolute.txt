@@ -1,0 +1,6 @@
+c:\users\kfathabadi\documents\visual studio 2017\Projects\SqlQueryBuilder\SqlQueryBuilder\bin\Debug\SqlQueryBuilder.exe.config
+c:\users\kfathabadi\documents\visual studio 2017\Projects\SqlQueryBuilder\SqlQueryBuilder\bin\Debug\SqlQueryBuilder.exe
+c:\users\kfathabadi\documents\visual studio 2017\Projects\SqlQueryBuilder\SqlQueryBuilder\bin\Debug\SqlQueryBuilder.pdb
+c:\users\kfathabadi\documents\visual studio 2017\Projects\SqlQueryBuilder\SqlQueryBuilder\obj\Debug\SqlQueryBuilder.csprojResolveAssemblyReference.cache
+c:\users\kfathabadi\documents\visual studio 2017\Projects\SqlQueryBuilder\SqlQueryBuilder\obj\Debug\SqlQueryBuilder.exe
+c:\users\kfathabadi\documents\visual studio 2017\Projects\SqlQueryBuilder\SqlQueryBuilder\obj\Debug\SqlQueryBuilder.pdb
